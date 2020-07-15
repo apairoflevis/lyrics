@@ -22,9 +22,11 @@ button:focus {
 }
 
 header {
-    background-color: aquamarine;
+    background-image: url('https://cdn.someecards.com/posts/when-your-riding-in-your-friends-car-and-they-start-12428527-3FGwhQ.png');
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center center;
+    min-height: 100vh;
     color: #fff;
     display: flex;
     flex-direction: column;
